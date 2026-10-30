@@ -1,0 +1,9 @@
+# 样本与工作区不入库
+*.exe
+*.dll
+*.bin
+*.rar
+*.7z
+*.zip
+samples/
+extracted/
